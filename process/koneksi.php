@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "kurni_sispak";
+$dbname = "spk_guru_wp";
 
 // Create connection
 $connect = new mysqli($servername, $username, $password, $dbname);

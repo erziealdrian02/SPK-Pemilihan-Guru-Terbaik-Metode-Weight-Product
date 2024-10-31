@@ -68,8 +68,8 @@ $total_customers = $row['count'];
                   <div class="col-lg-8">
                      <div class="card card-hover">
                         <div class="card-body">
-                           <h4>Kurnia Handayanti</h4>
-                           <h5>202043501328</h5>
+                           <h4>Nama Anda</h4>
+                           <h5>123123123123</h5>
                            <p>Saya adalah mahasiswa akhir di Universitas Indraprasta PGRI, Fakultas Teknik Informatika dan saya merupakan .... (Lanjutin ae kur ada di landing-page.php line 73)</p>
                         </div>
                      </div>
